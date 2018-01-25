@@ -1,0 +1,6 @@
+framework module Pods_247Trivia {
+  umbrella header "Pods-247Trivia-umbrella.h"
+
+  export *
+  module * { export * }
+}
